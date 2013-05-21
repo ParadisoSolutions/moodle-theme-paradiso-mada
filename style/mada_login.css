@@ -1,0 +1,11 @@
+.loginbox {
+    margin: 15px;
+    overflow: visible;
+    width: 40%;
+	float:left;
+	
+}
+
+.image_mada{width:672px; height:252px; background-image:url([[pix:moodle|t/mada_login]]); background-repeat:no-repeat; margin-left:550px; margin-top:38px;}
+
+#loginbtn { position:absolute; top:68%; left:18%;}
